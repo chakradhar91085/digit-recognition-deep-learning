@@ -24,4 +24,4 @@ Leave a clear gap between digits; touching digits are read as one.
 
 ## Credits
 
-Dataset: [MNIST](http://yann.lecun.com/exdb/mnist/). Built with TensorFlow/Keras, Pillow and Tkinter. MIT licensed.
+Dataset: [MNIST](http://yann.lecun.com/exdb/mnist/). Built with TensorFlow/Keras, Pillow and Tkinter.
